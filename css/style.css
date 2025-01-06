@@ -55,7 +55,6 @@
 	width: 970px;
 	height: 970px;
 	position: absolute;
-	top: 300px;
   border-collapse: collapse;
   border: 15px solid grey;
   opacity: 0%;
@@ -125,13 +124,11 @@
   width: 970px;
 	height: 970px;
 	position: absolute;
-	top: 300px;
 }
 #board{
 	width: 970px;
 	height: 970px;
 	position: absolute;
-	top: 300px;
  }
 .pieces {
     width: 100px;

@@ -130,8 +130,7 @@
 #board{
 	width: 970px;
 	height: 970px;
-	position: absolute;
-	top: 300px;
+	margin: auto;
  }
 .pieces {
     width: 100px;

@@ -1,4 +1,4 @@
-/* Modal container v2*/
+op/* Modal container v2*/
 #settings tr td{
   padding: 40px;
   font-size: 40px;
@@ -177,7 +177,9 @@
 #container {
   position: absolute;
   left: 50%;
-  right: 50%;
+  top: 50%;
+  width: 970px;
+  height: 970px;
   transform: translate(-50%, -50%)
 }
 body{

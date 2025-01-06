@@ -73,52 +73,52 @@ op/* Modal container v2*/
   position: absolute;
 }
 #ha8,#hb8,#hc8,#hd8,#he8,#hf8,#hg8,#hh8{
-  top: 18px;
+  top: 20px;
 }
 #ha7,#hb7,#hc7,#hd7,#he7,#hf7,#hg7,#hh7{
-  top: 134px;
+  top: 136px;
 }
 #ha6,#hb6,#hc6,#hd6,#he6,#hf6,#hg6,#hh6{
-  top: 250px;
+  top: 252px;
 }
 #ha5,#hb5,#hc5,#hd5,#he5,#hf5,#hg5,#hh5{
-  top: 366px;
+  top: 368px;
 }
 #ha4,#hb4,#hc4,#hd4,#he4,#hf4,#hg4,#hh4{
-  top: 482px;
+  top: 484px;
 }
 #ha3,#hb3,#hc3,#hd3,#he3,#hf3,#hg3,#hh3{
-  top: 598px;
+  top: 600px;
 }
 #ha2,#hb2,#hc2,#hd2,#he2,#hf2,#hg2,#hh2{
-  top: 714px;
+  top: 716px;
 }
 #ha1,#hb1,#hc1,#hd1,#he1,#hf1,#hg1,#hh1{
-  top: 830px;
+  top: 832px;
 }
 #ha1,#ha2,#ha3,#ha4,#ha5,#ha6,#ha7,#ha8{
-  left: 18px;
+  left: 20px;
 }
 #hb1,#hb2,#hb3,#hb4,#hb5,#hb6,#hb7,#hb8{
-  left: 134px;
+  left: 136px;
 }
 #hc1,#hc2,#hc3,#hc4,#hc5,#hc6,#hc7,#hc8{
-  left: 250px;
+  left: 252px;
 }
 #hd1,#hd2,#hd3,#hd4,#hd5,#hd6,#hd7,#hd8{
-  left: 366px;
+  left: 368px;
 }
 #he1,#he2,#he3,#he4,#he5,#he6,#he7,#he8{
-  left: 482px;
+  left: 484px;
 }
 #hf1,#hf2,#hf3,#hf4,#hf5,#hf6,#hf7,#hf8{
-  left: 598px;
+  left: 600px;
 }
 #hg1,#hg2,#hg3,#hg4,#hg5,#hg6,#hg7,#hg8{
-  left: 714px;
+  left: 716px;
 }
 #hh1,#hh2,#hh3,#hh4,#hh5,#hh6,#hh7,#hh8{
-  left: 830px;
+  left: 832px;
 }
 #framepad {
   width: 970px;
